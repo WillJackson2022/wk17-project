@@ -1,0 +1,7 @@
+FOUNDATIONAL
+
+Using the command line.
+Create a deployment that runs the nginx image.
+Display the details of this deployment.
+Check the event logs from the deployment.
+Delete the deployment.
